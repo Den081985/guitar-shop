@@ -47,7 +47,7 @@
   font-size: inherit;
 }
 
-.products-element-btn:active {
+.products-element-btn-active {
   border: 1px solid transparent;
   background-image: var(--linear-gradient);
 }

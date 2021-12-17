@@ -1,0 +1,14 @@
+.error-message {
+  padding: 20px 40px;
+  text-align: center;
+  background-color: var(--color-error-light);
+  box-shadow: var(--box-shadow);
+  color: var(--color-white);
+  border: 7px solid var(--color-error-dark);
+}
+.error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
